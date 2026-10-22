@@ -1,0 +1,6 @@
+D:\С#\DZ_Generic_Collections\bin\Debug\DZ_Generic_Collections.exe
+D:\С#\DZ_Generic_Collections\bin\Debug\DZ_Generic_Collections.pdb
+D:\С#\DZ_Generic_Collections\obj\Debug\DZ_Generic_Collections.csproj.AssemblyReference.cache
+D:\С#\DZ_Generic_Collections\obj\Debug\DZ_Generic_Collections.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Generic_Collections\obj\Debug\DZ_Generic_Collections.exe
+D:\С#\DZ_Generic_Collections\obj\Debug\DZ_Generic_Collections.pdb
